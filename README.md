@@ -7,4 +7,4 @@
 - allow user to drag/sort the list results
 - add a checkbox, that when clicked, changes all titles to UPPERCASE (display only, not in model)
 
-![](/images/Capture.png)
+![](./images/Capture.png)
